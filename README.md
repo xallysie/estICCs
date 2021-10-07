@@ -1,5 +1,5 @@
 # Estimate ICCs from lmer models
-R convenience function to estimate intra-class correlations (ICCs) from linear mixed-effect models (supports lme4 package).
+R convenience function to estimate intra-class correlations (ICCs) from linear mixed-effect models (supports [lme4](https://cran.r-project.org/web/packages/lme4/index.html) package).
 
 Usage:
 
